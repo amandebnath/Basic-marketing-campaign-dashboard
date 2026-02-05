@@ -32,7 +32,7 @@ This project transforms fragmented marketing campaign data into a high-impact pe
 
 | Preview | 
 | :---: | :---: |
-| ![preview]([https://via.placeholder.com/400x250?text=Marketing+KPI+Cards](https://github.com/amandebnath/Basic-marketing-campaign-dashboard/blob/main/screenshot.png)) |
+| ![preview]([https://github.com/amandebnath/Basic-marketing-campaign-dashboard/blob/82fd55eeccff5ba84fdc1bc6d8d4f69ccfb1ca6e/screenshot.png]) |
 
 
 ---
